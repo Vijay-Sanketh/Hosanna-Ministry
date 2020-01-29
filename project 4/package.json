@@ -1,0 +1,19 @@
+{
+  "name": "project-4",
+  "version": "1.0.0",
+  "description": "web: node app.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vijay-Sanketh/Hosanna-Ministries.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vijay-Sanketh/Hosanna-Ministries/issues"
+  },
+  "homepage": "https://github.com/Vijay-Sanketh/Hosanna-Ministries#readme"
+}
